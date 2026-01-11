@@ -1,0 +1,920 @@
+[
+  {
+    "nom": "Chasse aux gobelins",
+    "description": "Éliminez 5 gobelins près du village",
+    "niveauGuildeMinimum": 1,
+    "difficulte": 1,
+    "nbHerosMin": 1,
+    "nbHerosMax": 2,
+    "moment": "Matin",
+    "recompenses": {
+      "or": 30,
+      "nourriture": 8,
+      "reputation": 1,
+      "bois": 50,
+      "pierre": 2,
+      "metal": 3
+    }
+  },
+  {
+    "nom": "Patrouille nocturne",
+    "description": "Protégez le village contre les voleurs",
+    "niveauGuildeMinimum": 1,
+    "difficulte": 2,
+    "nbHerosMin": 2,
+    "nbHerosMax": 3,
+    "moment": "MatinEtSoir",
+    "recompenses": {
+      "or": 30,
+      "nourriture": 8,
+      "reputation": 1,
+      "bois": 50,
+      "pierre": 2,
+      "metal": 3
+    }
+  },
+  {
+    "nom": "Cueillette matinale",
+    "description": "Récupérez 20 plantes médicinales",
+    "niveauGuildeMinimum": 1,
+    "difficulte": 1,
+    "nbHerosMin": 1,
+    "nbHerosMax": 1,
+    "moment": "Matin",
+    "recompenses": {
+      "or": 30,
+      "nourriture": 8,
+      "reputation": 1,
+      "bois": 50,
+      "pierre": 2,
+      "metal": 3
+    }
+  },
+  {
+    "nom": "Chasse au loup",
+    "description": "Tuez le loup qui terrorise les moutons",
+    "niveauGuildeMinimum": 1,
+    "difficulte": 2,
+    "nbHerosMin": 1,
+    "nbHerosMax": 2,
+    "moment": "Soir",
+    "recompenses": {
+      "or": 30,
+      "nourriture": 8,
+      "reputation": 1,
+      "bois": 50,
+      "pierre": 2,
+      "metal": 3
+    }
+  },
+    {
+      "nom": "Recolte de bois",
+      "description": "Coupez 50 unites de bois",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 2,
+      "nbHerosMax": 4,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Patrouille frontière",
+      "description": "Surveillez la frontière nord",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Pêche miraculeuse",
+      "description": "Pêchez dans le lac enchanté",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Nettoyage égouts",
+      "description": "Débarrassez les égouts des rats",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 1,
+      "nbHerosMax": 3,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Escorte marchande",
+      "description": "Protégez la caravane jusqu'à la ville",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 3,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Recherche ruines",
+      "description": "Explorez les ruines elfiques",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Chasse sanglier",
+      "description": "Trafquez le sanglier géant",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Collecte miel",
+      "description": "Récupérez du miel sauvage",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 1,
+      "nbHerosMax": 1,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Défense village",
+      "description": "Défendez contre raid orc",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 4,
+      "nbHerosMin": 4,
+      "nbHerosMax": 5,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Mine de fer",
+      "description": "Exploitez la mine abandonnée",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 3,
+      "nbHerosMax": 5,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Carrière pierre",
+      "description": "Extraire 100 unités de pierre",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 1,
+      "nbHerosMin": 3,
+      "nbHerosMax": 6,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Chasse cerf",
+      "description": "Chasser pour nourrir le village",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Guet tour",
+      "description": "Montez la garde à la tour",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 1,
+      "nbHerosMax": 1,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Livre perdu",
+      "description": "Récupérez un grimoire dans les marais",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Pont brisé",
+      "description": "Réparez le pont commercial",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Champignons toxiques",
+      "description": "Collectez des champignons rares",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Ours grognon",
+      "description": "Vaincre l'ours des montagnes",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Eau sacrée",
+      "description": "Récupérez de l'eau d'une source sacrée",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 3,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Forêt hantée",
+      "description": "Éliminez les esprits des bois",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 4,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Nid d'aigle",
+      "description": "Détruisez le nid d'aigle géant",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Sel précieux",
+      "description": "Extraire du sel des marais",
+      "niveauGuildeMinimum": 1,
+      "difficulte": 1,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Caveau familial",
+      "description": "Protégez un enterrement",
+      "niveauGuildeMinimum": 2,
+      "difficulte": 2,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Herbes lunaires",
+      "description": "Récoltez sous la pleine lune",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Gobelin roi",
+      "description": "Tuez le roi gobelin",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 4,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Pierre runique",
+      "description": "Récupérez la pierre runique",
+      "niveauGuildeMinimum": 5,
+      "difficulte": 4,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Convoi perdu",
+      "description": "Sauvez le convoi marchand",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 3,
+      "nbHerosMax": 5,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Drake cavernicole",
+      "description": "Vaincre le drake des grottes",
+      "niveauGuildeMinimum": 5,
+      "difficulte": 5,
+      "nbHerosMin": 4,
+      "nbHerosMax": 5,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Griffon blessé",
+      "description": "Sauvez le griffon prisonnier",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 4,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Relique brisée",
+      "description": "Réparez la relique sacrée",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Bandits autoroute",
+      "description": "Éliminez la bande organisée",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 3,
+      "nbHerosMax": 5,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Basilic pétrifiant",
+      "description": "Tuer le basilic des marais",
+      "niveauGuildeMinimum": 6,
+      "difficulte": 5,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Château abandonné",
+      "description": "Explorez le château maudit",
+      "niveauGuildeMinimum": 5,
+      "difficulte": 5,
+      "nbHerosMin": 4,
+      "nbHerosMax": 6,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Hydre marécageuse",
+      "description": "Vaincre l'hydre à 5 têtes",
+      "niveauGuildeMinimum": 7,
+      "difficulte": 6,
+      "nbHerosMin": 5,
+      "nbHerosMax": 6,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Trésor nain",
+      "description": "Récupérez le trésor enfoui",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 4,
+      "nbHerosMin": 3,
+      "nbHerosMax": 5,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Esprit vengeur",
+      "description": "Apaiser l'esprit tourmenté",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 4,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Mine maudite",
+      "description": "Nettoyez la mine des morts-vivants",
+      "niveauGuildeMinimum": 6,
+      "difficulte": 5,
+      "nbHerosMin": 4,
+      "nbHerosMax": 6,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Caravane naine",
+      "description": "Escortez les nains jusqu'à la montagne",
+      "niveauGuildeMinimum": 3,
+      "difficulte": 3,
+      "nbHerosMin": 4,
+      "nbHerosMax": 6,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Vampire chasseur",
+      "description": "Éliminez le vampire des collines",
+      "niveauGuildeMinimum": 7,
+      "difficulte": 6,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Loup-garou alpha",
+      "description": "Tuer le chef de meute",
+      "niveauGuildeMinimum": 5,
+      "difficulte": 5,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Temple englouti",
+      "description": "Explorez le temple sous l'eau",
+      "niveauGuildeMinimum": 6,
+      "difficulte": 6,
+      "nbHerosMin": 3,
+      "nbHerosMax": 5,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Golem runique",
+      "description": "Détruisez le golem gardien",
+      "niveauGuildeMinimum": 6,
+      "difficulte": 5,
+      "nbHerosMin": 4,
+      "nbHerosMax": 5,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Sorcière exilée",
+      "description": "Éliminez la sorcière des marais",
+      "niveauGuildeMinimum": 5,
+      "difficulte": 5,
+      "nbHerosMin": 2,
+      "nbHerosMax": 3,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Fortresse orc",
+      "description": "Prenez la forteresse orc",
+      "niveauGuildeMinimum": 8,
+      "difficulte": 7,
+      "nbHerosMin": 6,
+      "nbHerosMax": 8,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Dragonneau",
+      "description": "Vaincre le jeune dragon",
+      "niveauGuildeMinimum": 9,
+      "difficulte": 8,
+      "nbHerosMin": 5,
+      "nbHerosMax": 7,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Lich débutant",
+      "description": "Détruisez le phylactère",
+      "niveauGuildeMinimum": 8,
+      "difficulte": 7,
+      "nbHerosMin": 4,
+      "nbHerosMax": 6,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Troll régénérant",
+      "description": "Tuez le troll avant régénération",
+      "niveauGuildeMinimum": 6,
+      "difficulte": 6,
+      "nbHerosMin": 3,
+      "nbHerosMax": 4,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Sphinx énigmatique",
+      "description": "Résolvez les énigmes du sphinx",
+      "niveauGuildeMinimum": 4,
+      "difficulte": 4,
+      "nbHerosMin": 1,
+      "nbHerosMax": 2,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Kraken éveillé",
+      "description": "Vaincre le kraken du port",
+      "niveauGuildeMinimum": 10,
+      "difficulte": 9,
+      "nbHerosMin": 6,
+      "nbHerosMax": 8,
+      "moment": "MatinEtSoir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Balrog abyssal",
+      "description": "Descendez dans l'abîme",
+      "niveauGuildeMinimum": 11,
+      "difficulte": 10,
+      "nbHerosMin": 7,
+      "nbHerosMax": 9,
+      "moment": "Soir",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    },
+    {
+      "nom": "Démons mineurs",
+      "description": "Fermez le portail démoniaque",
+      "niveauGuildeMinimum": 9,
+      "difficulte": 8,
+      "nbHerosMin": 5,
+      "nbHerosMax": 7,
+      "moment": "Matin",
+      "recompenses": {
+        "or": 30,
+        "nourriture": 8,
+        "reputation": 1,
+        "bois": 50,
+        "pierre": 2,
+        "metal": 3
+      }
+    }
+ ]

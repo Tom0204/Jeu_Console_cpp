@@ -1,0 +1,201 @@
+{
+  "heroes": [
+    {
+      "name": "Thorin",
+      "race": "Nain",
+      "class": "Guerrier",
+      "rank": "commun",
+      "stats": {
+        "hp": 120,
+        "strength": 18,
+        "endurance": 16,
+        "magic": 4,
+        "agility": 6
+      }
+    },
+    {
+      "name": "Borin",
+      "race": "Nain",
+      "class": "Sorcier",
+      "rank": "rare",
+      "stats": {
+        "hp": 110,
+        "strength": 12,
+        "endurance": 14,
+        "magic": 22,
+        "agility": 10
+      }
+    },
+    {
+      "name": "Krag",
+      "race": "Nain",
+      "class": "Champion",
+      "rank": "epic",
+      "stats": {
+        "hp": 200,
+        "strength": 28,
+        "endurance": 25,
+        "magic": 8,
+        "agility": 12
+      }
+    },
+    {
+      "name": "Durgan",
+      "race": "Nain",
+      "class": "Guerrier",
+      "rank": "rare",
+      "stats": {
+        "hp": 140,
+        "strength": 22,
+        "endurance": 20,
+        "magic": 5,
+        "agility": 8
+      }
+    },
+    {
+      "name": "Grimlok",
+      "race": "Nain",
+      "class": "Sorcier",
+      "rank": "epic",
+      "stats": {
+        "hp": 130,
+        "strength": 14,
+        "endurance": 16,
+        "magic": 28,
+        "agility": 11
+      }
+    },
+
+    {
+      "name": "Eldrin",
+      "race": "Elfe",
+      "class": "Druide",
+      "rank": "legendaire",
+      "stats": {
+        "hp": 160,
+        "strength": 10,
+        "endurance": 18,
+        "magic": 32,
+        "agility": 22
+      }
+    },
+    {
+      "name": "Lirael",
+      "race": "Elfe",
+      "class": "Sentinelle",
+      "rank": "rare",
+      "stats": {
+        "hp": 110,
+        "strength": 14,
+        "endurance": 12,
+        "magic": 18,
+        "agility": 25
+      }
+    },
+    {
+      "name": "Sylvana",
+      "race": "Elfe",
+      "class": "Mage",
+      "rank": "mythique",
+      "stats": {
+        "hp": 130,
+        "strength": 6,
+        "endurance": 10,
+        "magic": 40,
+        "agility": 28
+      }
+    },
+    {
+      "name": "Thalor",
+      "race": "Elfe",
+      "class": "Sentinelle",
+      "rank": "epic",
+      "stats": {
+        "hp": 125,
+        "strength": 16,
+        "endurance": 14,
+        "magic": 24,
+        "agility": 27
+      }
+    },
+    {
+      "name": "Aeloria",
+      "race": "Elfe",
+      "class": "Druide",
+      "rank": "rare",
+      "stats": {
+        "hp": 135,
+        "strength": 8,
+        "endurance": 16,
+        "magic": 28,
+        "agility": 20
+      }
+    },
+
+    {
+      "name": "Arthas",
+      "race": "Humain",
+      "class": "Chevalier",
+      "rank": "epic",
+      "stats": {
+        "hp": 200,
+        "strength": 24,
+        "endurance": 22,
+        "magic": 10,
+        "agility": 14
+      }
+    },
+    {
+      "name": "Lena",
+      "race": "Humain",
+      "class": "Pretre",
+      "rank": "rare",
+      "stats": {
+        "hp": 140,
+        "strength": 8,
+        "endurance": 16,
+        "magic": 26,
+        "agility": 12
+      }
+    },
+    {
+      "name": "Garrick",
+      "race": "Humain",
+      "class": "Voleur",
+      "rank": "commun",
+      "stats": {
+        "hp": 100,
+        "strength": 12,
+        "endurance": 10,
+        "magic": 6,
+        "agility": 24
+      }
+    },
+    {
+      "name": "Roland",
+      "race": "Humain",
+      "class": "Chevalier",
+      "rank": "rare",
+      "stats": {
+        "hp": 170,
+        "strength": 20,
+        "endurance": 19,
+        "magic": 12,
+        "agility": 15
+      }
+    },
+    {
+      "name": "Elara",
+      "race": "Humain",
+      "class": "Pretre",
+      "rank": "epic",
+      "stats": {
+        "hp": 155,
+        "strength": 10,
+        "endurance": 18,
+        "magic": 30,
+        "agility": 13
+      }
+    }
+  ]
+}
